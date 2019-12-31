@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\Project_LIB\2-合作项目\智能音响\HW-design\release files\【项目文件】VOICEN-Nano-AMP-A\【SCH&PCB】VOICEN-Nano-AMP-A\VOICEN-Nano-AMP-A.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=voicen-nano-amp-a-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=voicen-nano-amp-a-slotholes-plated.txt|DrillLayers=gtl,gbl

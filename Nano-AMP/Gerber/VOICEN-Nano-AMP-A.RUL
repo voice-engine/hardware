@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\Project_LIB\2-合作项目\智能音响\HW-design\release files\【项目文件】VOICEN-Nano-AMP-A\【SCH&PCB】VOICEN-Nano-AMP-A\VOICEN-Nano-AMP-A.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

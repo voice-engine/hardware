@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: VOICEN-Nano-AMP-A.PcbDoc   2019/9/15  18:39:09
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : VOICEN-Nano-AMP-A-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : VOICEN-Nano-AMP-A-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             303       PTH        38.67inch (982.32mm)
+T2      28mil (0.7mm)                                             Round             8         PTH        2.55inch (64.85mm)
+T3      32mil (0.8mm)                                             Slot              8         PTH        5.39inch (136.94mm)
+T4      35mil (0.9mm)                                             Round             58        PTH        7.42inch (188.41mm)
+T5      43mil (1.1mm)                                             Round             2         PTH        0.28inch (6.99mm)
+T6      126mil (3.2mm)                                            Round             4         PTH        4.18inch (106.27mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              383
+
+Total Processing Time (hh:mm:ss) : 00:00:00
